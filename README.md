@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd-year Computer Science student, <br>currently working on full-stack web development while<br>expanding my expertise in advanced Python and data structures.
+I am a 3rd-year Computer Science student 🎓💻, <br>currently working on full-stack web development 🌐 while<br>expanding my expertise in advanced Python 🐍 and data structures 🏗️.
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@ I am a 3rd-year Computer Science student, <br>currently working on full-stack we
 [![](https://visitcount.itsvg.in/api?id=rohit98626&icon=4&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RPrajapat836) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RPrajapat836) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
